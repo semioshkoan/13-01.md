@@ -28,11 +28,19 @@
 
 - Какие сетевые службы в ней разрешены?
 
-(https://github.com/semioshkoan/13-01.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_101.png)
+![image](https://github.com/semioshkoan/13-01.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_101.png)
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-  
+![image](https://github.com/semioshkoan/13-01.md/blob/main/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_100.png)  
+
+vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
+
+Apache 2.4.x - Buffer Overflow
+
+PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service
+
+PostgreSQL 8.3.6 - Low Cost Function Information Disclosure
 
 ### Задание 2
 
